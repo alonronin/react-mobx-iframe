@@ -1,7 +1,6 @@
 {
-  "name": "webpackbin-project",
+  "name": "react-mobx-iframe",
   "version": "1.0.0",
-  "description": "Project boilerplate",
   "scripts": {
     "start": "webpack-dev-server --content-base src/ --port 3000"
   },
@@ -22,7 +21,5 @@
     "babel-preset-react": "^6.5.0",
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
     "babel-plugin-transform-class-properties": "^6.23.0"
-  },
-  "author": "WebpackBin",
-  "license": "ISC"
+  }
 }
